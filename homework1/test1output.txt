@@ -1,0 +1,6 @@
+Code run by **insert your name here**
+Environment variable UWHPSC is /home/alastair/uwhpsc
+Environment variable MYHPSC is /home/alastair/hpcat
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
